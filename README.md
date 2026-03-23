@@ -33,7 +33,7 @@ pip install -r requirements.txt
 
 ## 配置环境变量
 
-复制并修改 `.env.example`：
+复制并修改 `.env.example`（注意：`.env` 会被 `.gitignore` 忽略，不会提交到仓库）：
 
 ```bash
 cp .env.example .env
